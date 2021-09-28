@@ -1,0 +1,25 @@
+{
+  "name": "algorithm-practice",
+  "version": "1.0.0",
+  "description": "algorithm practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wh2017/algorithm-practice.git"
+  },
+  "keywords": [
+    "algorithm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wh2017/algorithm-practice/issues"
+  },
+  "homepage": "https://github.com/wh2017/algorithm-practice#readme",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  }
+}
