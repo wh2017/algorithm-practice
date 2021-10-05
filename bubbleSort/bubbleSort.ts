@@ -1,5 +1,8 @@
 import { swap } from "../util.ts/swap";
 
+/**
+ * 比较相邻位置的元素大小，如果左边比右边大，就交换位置
+ */
 export class BubbleSort {
   static bubbleSortWithFlag(arr: number[]) {
     /** 记录是否执行过位置交换，若未执行过，则数组本身有序 */
