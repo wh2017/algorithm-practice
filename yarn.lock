@@ -2,6 +2,16 @@
 # yarn lockfile v1
 
 
+"@types/lodash@^4.14.175":
+  version "4.14.175"
+  resolved "https://registry.npmmirror.com/@types/lodash/download/@types/lodash-4.14.175.tgz#b78dfa959192b01fae0ad90e166478769b215f45"
+  integrity sha1-t436lZGSsB+uCtkOFmR4dpshX0U=
+
+lodash@^4.17.21:
+  version "4.17.21"
+  resolved "https://registry.nlark.com/lodash/download/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha1-Z5WRxWTDv/quhFTPCz3zcMPWkRw=
+
 typescript@^4.4.3:
   version "4.4.3"
   resolved "https://registry.npmmirror.com/typescript/download/typescript-4.4.3.tgz?cache=0&sync_timestamp=1632813845390&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Ftypescript%2Fdownload%2Ftypescript-4.4.3.tgz#bdc5407caa2b109efd4f82fe130656f977a29324"
