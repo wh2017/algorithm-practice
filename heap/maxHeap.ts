@@ -96,6 +96,14 @@ export class MaxHeap {
       index = maxIndex
     }
   }
+
+  /** 取出堆中最大元素，并替换为特定元素 */
+  public replace(ele: number) {
+    const max = this.findMax()
+    this.data[0] = ele
+    this.siftDown(0)
+    return max
+  }
 }
 
 const testArr = [3, 2, 6, 4, 7, 4, 9, 1, 0]
